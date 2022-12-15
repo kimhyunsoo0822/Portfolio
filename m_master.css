@@ -1,0 +1,445 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.warp{
+    width: 100%;
+    height: 100%;
+}
+
+.box{
+    width: 100%;
+    height: 203px;
+    background-size: cover;
+    background-position: center;
+}
+
+.box1{background-image: url("img/phone_01.png");
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+
+.tit_field{
+    width: 1040px;
+    height: 142px;
+    border: 0px solid #DD4747;
+    position: relative;
+    text-align: center;
+    margin-top: 180px;
+}
+
+.tit_main1{
+    font-size: 13px;
+    color: white;
+}
+
+.tit_main2{
+    font-size: 10px;
+    color: white;
+}
+
+.tit_main3{
+    font-size: 11px;
+    color: white;
+}
+
+nav{
+    width: 100%;
+    height: 33px;
+    background-color: #9BA59E;
+    display: flex;
+    justify-content: center;
+    background-image: url("img/mtitbar4.png");
+}
+.menubar{
+    width: 510px;
+    height: 33px;
+    border: 1px solid blue;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu{
+    width: 640px;
+    height: 33px;
+    border: 0px solid green;
+    text-align: center;
+    margin-top: 5px;
+}
+.menu > a{
+    color: white;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 11px;
+}
+.tit_main1 > a{
+    color: white;
+}
+
+.box2{background-image: url("img/phone_02.png");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+	height: 238px
+}
+
+.tit_field2{
+    width: 180px;
+    height: 200px;
+    border: 1px solid #DD4747;
+    position: relative;
+    text-align: center;
+    margin-right: 15px;
+}
+
+.tit_main2_1{
+    font-size: 11px;
+    text-align: left;
+	margin-top: 5px;
+}
+
+.tit_main2_2{
+    font-size: 10px;
+    text-align: left;
+    margin-top: 5px;
+}
+
+.tit_main2_3{
+    font-size: 11px;
+    text-align: right;
+    margin-top: 5px;
+}
+
+.tit_main2_4{
+    font-size: 10px;
+    text-align: right;
+    margin-top: 5px;
+}
+
+.tit_main2_5{
+    font-size: 11px;
+    text-align: left;
+    margin-top: 5px;
+}
+
+.p_menu{background-image: url("img/mtitbar1.png");
+    width: 100%;
+    height: 33px;
+    background-color: #9BA59E;
+    display: flex;
+    justify-content: center;
+}
+
+.titp{    
+	text-align: center;
+	font-size: 13px;
+    color: white;
+	margin-top: 9px
+}
+
+.sud01box{
+    width: 100%;
+    height: 841px;
+    background-size: cover;
+    background-position: center;
+}
+
+.tit_field_sud01_01{
+    width: 510px;
+    height: 841px;
+    border: 0px solid #DD4747;
+    position: relative;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.tit_sud01_01{
+    font-size: 30px;
+    color: #A08481;
+    margin-top: 40px;
+}
+
+.tit_sud01_02{
+    font-size: 15px;
+    color: #A08481;
+    margin-top: 10px;
+}
+
+.box9{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box10{background-image: url("img/phone_04.png");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+		margin-left: 80px
+}
+
+.sud01box02{
+    width: 328px;
+    height: 194px;
+    display: flex;
+    margin-top: 25px;
+    justify-content: center;
+}
+
+.tit_sud01_03{
+    font-size: 30px;
+    color: #A08481;
+    margin-top: 25px;
+}
+
+.tit_sud01_04{
+    font-size: 15px;
+    color: #A08481;
+    margin-top: 10px;
+}
+
+.sud01box03{
+    width: 328px;
+    height: 193px;
+    display: flex;
+    margin-top: 25px;
+    justify-content: center;
+}
+
+.box11{background-image: url("img/phone_05.png");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+	margin-left: 80px
+}
+
+.tit_sud01_05{
+    font-size: 10px;
+    color: #A08481;
+    margin-top: 25px;
+}
+
+
+
+
+
+.p_menu2{background-image: url("img/mtitbar2.png");
+    width: 100%;
+    height: 33px;
+    background-color: #9BA59E;
+    display: flex;
+    justify-content: center;
+}
+
+.tite{    
+	text-align: center;
+	font-size: 13px;
+    color: white;
+	margin-top: 9px
+}
+
+.sud02box{
+    width: 100%;
+    height: 912px;
+    background-size: cover;
+    background-position: center;
+}
+
+.tit_field_sud02_01{
+    width: 510px;
+    height: 912px;
+    border: 0px solid #DD4747;
+    position: relative;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.tit_sud02_01{
+    font-size: 30px;
+    color: #9BA59E;
+	margin-top: 25px
+}
+
+.tit_sud02_02{
+    font-size: 15px;
+    color: #9BA59E;
+    margin-top: 10px;
+}
+
+.box6{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box7{background-image: url("img/phone_07.png");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+	    margin-left: 80px;
+}
+
+.sud02box02{
+    width: 328px;
+    height: 312px;
+    display: flex;
+    margin-top: 25px;
+    justify-content: center;
+}
+
+.tit_sud02_03{
+    font-size: 30px;
+    color: #9BA59E;
+    margin-top: 25px;
+}
+
+.tit_sud02_04{
+    font-size: 15px;
+    color: #9BA59E;
+    margin-top: 10px;
+}
+
+.sud02box03{
+    width: 164px;
+    height: 247px;
+    display: flex;
+    margin-top: 25px;
+    justify-content: center;
+}
+
+.box8{background-image: url("img/phone_08.png");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 160px;
+}
+
+.tit_sud02_05{
+    font-size: 10px;
+    color: #9BA59E;
+    margin-top: 10px;
+}
+
+
+
+
+
+.p_menu3{background-image: url("img/mtitbar3.png");
+    width: 100%;
+    height: 33px;
+    background-color: #9BA59E;
+    display: flex;
+    justify-content: center;
+}
+
+.titi{    
+	text-align: center;
+	font-size: 13px;
+    color: white;
+	margin-top: 9px
+}
+
+.sud03box{
+    width: 100%;
+    height: 1580px;
+    background-size: cover;
+    background-position: center;
+}
+
+.tit_field_sud03_01{
+    width: 510px;
+    height: 1580px;
+    border: 0px solid #DD4747;
+    position: relative;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.sud03box02{
+    width: 328px;
+    height: 194px;
+    display: flex;
+    margin-top: 25px;
+    justify-content: center;
+}
+
+.sud03box03{
+    width: 328px;
+    height: 268px;
+    display: flex;
+    margin-top: 25px;
+    justify-content: center;
+}
+
+
+.box12{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box13{background-image: url("img/phone_09.png");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+	margin-left: 80px;
+}
+
+.box14{background-image: url("img/phone_10.png");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+	margin-left: 80px;
+}
+
+.box15{background-image: url("img/phone_11.png");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+	margin-left: 80px;
+}
+
+.box16{background-image: url("img/phone_12.png");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+	margin-left: 80px;
+}
+
+.tit_sud03_01{
+    font-size: 30px;
+    color: #5F7077;
+    margin-top: 25px;
+}
+
+.tit_sud03_02{
+    font-size: 15px;
+    color: #5F7077;
+    margin-top: 10px;
+}
+
+.tit_sud03_03{
+    font-size: 10px;
+    color: #5F7077;
+    margin-top: 15px;
+}
+
+.p_menu4{background-image: url("img/mtitbar4.png");
+    width: 100%;
+    height: 33px;
+    background-color: #9BA59E;
+    display: flex;
+    justify-content: center;
+}
+
+.titf{    
+	text-align: center;
+	font-size: 10px;
+    color: white;
+	margin-top: 9px
+}
