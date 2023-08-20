@@ -179,7 +179,7 @@ nav{
     display: flex;
     justify-content: center;
     align-items: center;
-		margin-left: 45px
+		margin-left: 30px
 }
 
 .sud01box02{
@@ -215,7 +215,7 @@ nav{
     justify-content: center;
     align-items: center;
     margin-top: 25px;
-	margin-left: 55px
+	margin-left: 30px
 }
 
 .tit_sud01_05{
@@ -281,7 +281,7 @@ nav{
     display: flex;
     justify-content: center;
     align-items: center;
-	    margin-left: 58px;
+	    margin-left: 30px;
 }
 
 .sud02box02{
@@ -316,7 +316,7 @@ nav{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 140px;
+    margin-left: 30px;
 }
 
 .tit_sud02_05{
@@ -387,28 +387,28 @@ nav{
     display: flex;
     justify-content: center;
     align-items: center;
-	margin-left: 65px;
+	margin-left: 30px;
 }
 
 .box14{background-image: url("img/phone_10.png");
     display: flex;
     justify-content: center;
     align-items: center;
-	margin-left: 65px;
+	margin-left: 30px;
 }
 
 .box15{background-image: url("img/phone_11.png");
     display: flex;
     justify-content: center;
     align-items: center;
-	margin-left: 65px;
+	margin-left: 30px;
 }
 
 .box16{background-image: url("img/phone_12.png");
     display: flex;
     justify-content: center;
     align-items: center;
-	margin-left: 65px;
+	margin-left: 30px;
 }
 
 .tit_sud03_01{
