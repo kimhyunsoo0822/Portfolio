@@ -260,6 +260,7 @@ nav{
     position: relative;
     overflow: hidden;
     border: red solid 0px;
+	  background-size: cover;
 }
 
 .sub_tt{
@@ -331,6 +332,7 @@ nav{
     position: relative;
     overflow: hidden;
     border: red solid 0px;
+	  background-size: cover;
 }
 
 .main03_B{
@@ -407,6 +409,7 @@ nav{
     position: relative;
     overflow: hidden;
     border: red solid 0px;
+	  background-size: cover;
 }
 
 .main04_B{
@@ -472,6 +475,7 @@ nav{
     position: relative;
     overflow: hidden;
     border: red solid 0px;
+	  background-size: cover;
 }
 
 .main05_B{
