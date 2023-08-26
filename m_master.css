@@ -142,6 +142,7 @@ nav{
     position: relative;
     overflow: hidden;
     border: red solid 0px;
+	  background-size: cover;
 }
 
 .main01_B{
@@ -151,6 +152,7 @@ nav{
     overflow: hidden;
     border: red solid 0px;
     background-image: url('img/m_SMain.png');
+	background-size: cover;
 }
 
 .main01_B_1{
@@ -208,6 +210,7 @@ nav{
     position: relative;
     overflow: hidden;
     border: red solid 0px;
+	  background-size: cover;
 }
 .main01_D{background-image: url('img/m_ES.png');
     width: 100%;
@@ -215,6 +218,7 @@ nav{
     position: relative;
     overflow: hidden;
     border: red solid 0px;
+	  background-size: cover;
 }
 .main01_E{background-image: url('img/m_UU.png');
     width: 100%;
@@ -222,6 +226,7 @@ nav{
     position: relative;
     overflow: hidden;
     border: red solid 0px;
+	  background-size: cover;
 }
 .main01_F{background-image: url('img/m_ID.png');
     width: 100%;
@@ -229,6 +234,7 @@ nav{
     position: relative;
     overflow: hidden;
     border: red solid 0px;
+	  background-size: cover;
 }
 .main01_C:hover{background-image: url('img/m_PKG_G.png');}
 .main01_D:hover{background-image: url('img/m_ES_G.png');}
